@@ -9,6 +9,7 @@
 import UIKit
 import CoreData
 import JSQMessagesViewController
+import AVFoundation
 
 struct User{
     let id: String
